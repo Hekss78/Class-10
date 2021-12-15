@@ -6,6 +6,8 @@ if(username=="admin"&& password=="user")
 {
     alert("login succesfully");
     return false;
+window.location.replace"munal.me";
+return;
 
 }
 else
